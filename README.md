@@ -1,2 +1,2 @@
 # Sorting
-Merge sort / Linear sort / Quick sort
+Linear sort / Merge sort / Quick sort
